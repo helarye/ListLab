@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListLab", "ListLab.csproj", "{9F511B66-2CC3-4DF1-A3CA-B4368B0F8CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F511B66-2CC3-4DF1-A3CA-B4368B0F8CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F511B66-2CC3-4DF1-A3CA-B4368B0F8CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F511B66-2CC3-4DF1-A3CA-B4368B0F8CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F511B66-2CC3-4DF1-A3CA-B4368B0F8CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD11879-7E15-46E5-88F2-BCDEA2740BA3}
+	EndGlobalSection
+EndGlobal
