@@ -6,8 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ListLab;
-
-class Node<T>
+public class Node<T>
 {
     private T value;//ערך החוליה
     private Node<T> next;//מצביע על החוליה הבאה
