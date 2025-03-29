@@ -1,8 +1,10 @@
-﻿using ListLab;
+﻿
 namespace ListLab;
 public class Program
 {
     private static void Main(string[] args)
+
+
     {
         Console.WriteLine("Hello, World!");
         Node<int> lst = new Node<int>(4);//יצירת חוליה ראשונה ששם הרשימה מצביע עליה
